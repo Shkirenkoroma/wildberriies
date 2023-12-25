@@ -1,5 +1,6 @@
-### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/wildberriies/
-Вертска одностраничного сайта "Wildberries"
+#### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/wildberriies/
+
+Вёрстка одностраничного сайта "Wildberries"
 ![image](https://user-images.githubusercontent.com/61347452/228735091-05ff429a-2fa1-461a-a6fa-02ca4339d71a.png)
 Подключена библиотека для реализации слайдера
 ![image](https://user-images.githubusercontent.com/61347452/228734789-2c89f87b-c164-4193-a8ef-5a37dfe80d18.png)
